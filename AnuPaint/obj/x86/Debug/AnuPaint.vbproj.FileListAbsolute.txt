@@ -1,0 +1,30 @@
+C:\Users\XtechKid\AppData\Local\Temporary Projects\AnuPaint\bin\Debug\AnuPaint.exe
+C:\Users\XtechKid\AppData\Local\Temporary Projects\AnuPaint\bin\Debug\AnuPaint.pdb
+C:\Users\XtechKid\AppData\Local\Temporary Projects\AnuPaint\bin\Debug\AnuPaint.xml
+C:\Users\XtechKid\AppData\Local\Temporary Projects\AnuPaint\obj\x86\Debug\AnuPaint.mainFrm.resources
+C:\Users\XtechKid\AppData\Local\Temporary Projects\AnuPaint\obj\x86\Debug\AnuPaint.Resources.resources
+C:\Users\XtechKid\AppData\Local\Temporary Projects\AnuPaint\obj\x86\Debug\AnuPaint.vbproj.GenerateResource.Cache
+C:\Users\XtechKid\AppData\Local\Temporary Projects\AnuPaint\obj\x86\Debug\AnuPaint.exe
+C:\Users\XtechKid\AppData\Local\Temporary Projects\AnuPaint\obj\x86\Debug\AnuPaint.xml
+C:\Users\XtechKid\AppData\Local\Temporary Projects\AnuPaint\obj\x86\Debug\AnuPaint.pdb
+C:\Users\XtechKid\AppData\Local\Temporary Projects\AnuPaint\obj\x86\Debug\AnuPaint.Swatch.resources
+D:\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.exe
+D:\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.xml
+D:\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.pdb
+D:\AnuPaint\AnuPaint\bin\Debug\AnuPaint.exe
+D:\AnuPaint\AnuPaint\bin\Debug\AnuPaint.pdb
+D:\AnuPaint\AnuPaint\bin\Debug\AnuPaint.xml
+D:\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.mainFrm.resources
+D:\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.Resources.resources
+D:\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.vbproj.GenerateResource.Cache
+D:\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.SplashScreen1.resources
+E:\Softwares\bkup\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.exe
+E:\Softwares\bkup\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.xml
+E:\Softwares\bkup\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.pdb
+E:\Softwares\bkup\AnuPaint\AnuPaint\bin\Debug\AnuPaint.exe
+E:\Softwares\bkup\AnuPaint\AnuPaint\bin\Debug\AnuPaint.pdb
+E:\Softwares\bkup\AnuPaint\AnuPaint\bin\Debug\AnuPaint.xml
+E:\Softwares\bkup\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.mainFrm.resources
+E:\Softwares\bkup\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.Resources.resources
+E:\Softwares\bkup\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.SplashScreen1.resources
+E:\Softwares\bkup\AnuPaint\AnuPaint\obj\x86\Debug\AnuPaint.vbproj.GenerateResource.Cache
